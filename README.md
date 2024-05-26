@@ -7,8 +7,7 @@
  ### Github Statistic
 <p align="center">
 <a href="https://github.com/ajiekusumadhany">
-  <img  src="https://github-readme-stats-eight-theta.vercel.app/api?username=ajiekusumadhany&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ajiekusumadhany&layout=compact&layout=compact&theme=algolia"/>
+  <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ajiekusumadhany&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
 
