@@ -4,9 +4,11 @@
 
 - 📫 Ping me by [Email](mailto:ajiekusumadhany@gmail.com)
 
-
+ ### Github Statistic
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ajiekusumadhany&show_icons=true&theme=tokyonight" />
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ajiekusumadhany&theme=tokyonight" />
+<a href="https://github.com/ajiekusumadhany">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ajiekusumadhany&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ajiekusumadhany&layout=compact&layout=compact&theme=algolia"/>
+</a>
 </p>
 
